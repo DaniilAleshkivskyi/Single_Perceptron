@@ -1,3 +1,6 @@
 # Single_Perceptron
 
-![myplot.png](myplot.png)[2D representation of Decision Hyperplane](relative%20path/to/img.jpg?raw=true "Title")
+
+
+## 2D representation of Decision Hyperplane based on Petal Width and Length
+![myplot.png](myplot.png)
